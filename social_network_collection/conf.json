@@ -1,0 +1,23 @@
+{
+  "clients" : [
+    {
+      "name": "sfsu_socialnetwork1",
+      "key": "key1",
+      "secret": "secret1",
+      "token": "token1",
+      "token_secret": "token_secret1"
+     },
+      {
+      "name": "sfsu_socialnetwork2",
+      "key": "key2",
+      "secret": "secret2",
+      "token": "token2",
+      "token_secret": "token_secret2"
+     }
+
+  ],
+  "mongo": {
+    "database_name": "stream_store",
+    "collection_name": "social_network"
+  }
+}
