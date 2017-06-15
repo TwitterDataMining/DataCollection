@@ -1,0 +1,11 @@
+{
+  "consumer_key": "key",
+  "consumer_secret": "secret",
+  "token":  "token",
+  "token_secret": "secrettoken",
+  "hashtags": [
+ 	 "#Powerless",
+  	 "#24Legacy", 
+  	 "#LegionFX"
+     ]
+}
